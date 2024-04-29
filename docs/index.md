@@ -44,3 +44,4 @@ ____
 - Project 4
 - Project 5
 
+### [Download CV](/pdf/iazpiri_CV.pdf)
