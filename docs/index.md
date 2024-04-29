@@ -40,8 +40,8 @@ ____
 
 ### My Projects
 - Data Sciense Helper - Chrome Extension in Javascript  
-[Info](/dshproject)  
-[Source code](https://github.com/cegagit/cegagit.github.io/tree/main/mycode/javascript/datasciencehelper)  
+[Info](/tictactoe)  
+[Source code](https://github.com/iazpirigit/iazpirigit.github.io/tree/main/mycode/javascript/tictactoe)  
 [Live demo](/demos/datasciencehelper.html)
 - Project 2
 - Project 3
