@@ -41,8 +41,8 @@ ____
 ### My Projects
 - Data Sciense Helper - Chrome Extension in Javascript  
 [Info](/tictactoe)  
-[Source code](https://github.com/iazpirigit/iazpirigit.github.io/tree/main/mycode/javascript/tictactoe)  
-[Live demo](/demos/datasciencehelper.html)
+[Source code](https://github.com/iazpiri/iazpiri.github.io/tree/main/mycode/javascript/tictactoe)  
+[Live demo](/demos/javascript/tictactoe.html)
 - Project 2
 - Project 3
 - Project 4
