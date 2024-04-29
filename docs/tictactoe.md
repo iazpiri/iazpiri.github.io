@@ -11,7 +11,7 @@ modified: 2024-04-27T23:13:08-03:00
 
 This is a classic tictactoe game developed in html and javascript
 
-[Image](./images/tictactoe.jpg)
+<br> <img src=images/tictactoe.jpg>
 
 [Source code](https://github.com/iazpiri/iazpiri.github.io/tree/main/mycode/javascript/tictactoe)  
 [Live demo](/demos/javascript/tictactoe/tictactoe.html)
