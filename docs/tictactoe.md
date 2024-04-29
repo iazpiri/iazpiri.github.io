@@ -14,6 +14,6 @@ This is a classic tictactoe game developed in html and javascript
 [Image](tictactoe.jpg)
 
 [Source code](https://github.com/iazpiri/iazpiri.github.io/tree/main/mycode/javascript/tictactoe)  
-[Live demo](/demos/javascript/tictactoe.html)
+[Live demo](/demos/javascript/tictactoe/tictactoe.html)
 
 
