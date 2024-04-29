@@ -23,11 +23,15 @@ ____
 
 ### **PREVIOUS JOB EXPERIENCE**
 
+#### Gimenez y Asociados 2023-20xx
+- Soporte tecnico.  
+
 #### Kynetec 2019-2019
-•	Solicitaba retroalimentación directa de los usuarios sobre sus experiencias con el producto a través de diversos canales, incluyendo encuestas, tickets de soporte al cliente y sesiones de investigación de usuarios.  
-•	Registraba y organizaba la retroalimentación de los usuarios en una base de datos para identificar tendencias, problemas y áreas de mejora.  
-•	Colaboraba con equipos interfuncionales para abogar por mejoras centradas en el usuario basadas en la retroalimentación recopilada.  
-•	Ayudaba en la planificación y ejecución de iniciativas de retroalimentación de usuarios, como programas de prueba beta y estudios de usabilidad.  
+-	Solicitaba retroalimentación directa de los usuarios sobre sus experiencias con el producto a través de diversos canales, incluyendo encuestas, tickets de soporte al cliente y sesiones de investigación de usuarios.  
+- Registraba y organizaba la retroalimentación de los usuarios en una base de datos para identificar tendencias, problemas y áreas de mejora.  
+-	Colaboraba con equipos interfuncionales para abogar por mejoras centradas en el usuario basadas en la retroalimentación recopilada.  
+-	Ayudaba en la planificación y ejecución de iniciativas de retroalimentación de usuarios, como programas de prueba beta y estudios de usabilidad.  
+
 
 
 
