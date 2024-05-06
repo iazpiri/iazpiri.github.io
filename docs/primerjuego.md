@@ -10,4 +10,4 @@ Screenshot:
 <br><img src="images/primerjuegoscreen.png?raw=true"/>
 
 [Source Code]()  
-[Live Demo](docs/demos/unity/PrimerJuego/index.html)
+[Live Demo](/demos/unity/PrimerJuego/index.html)
