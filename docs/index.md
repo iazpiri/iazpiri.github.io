@@ -44,9 +44,9 @@ ____
 [Source code](https://github.com/iazpiri/iazpiri.github.io/tree/main/mycode/javascript/tictactoe)  
 [Live demo](/demos/javascript/tictactoe/tictactoe.html)
 - Primer Juego Plataforma - Unity 3D
-  [Info](/primerjuego)
-  [Source Code]()
-  [Live Demo](docs/demos/unity/PrimerJuego/index.html)  
+[Info](/primerjuego)  
+[Source Code]()  
+[Live Demo](docs/demos/unity/PrimerJuego/index.html)  
 - Project 3
 - Project 4
 - Project 5
