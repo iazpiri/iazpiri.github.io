@@ -1,4 +1,4 @@
-# Hello, you have reached the public repository of Inaki Azpiri 
+# Hello, you have reached the public repository of Iñaki Azpiri 
 
 ## You can visit my personal site at:
 
