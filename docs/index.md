@@ -24,33 +24,28 @@ ____
 ### **PREVIOUS JOB EXPERIENCE**
 
 #### Gimenez y Asociados 2023-20xx
-- Soporte tecnico.  
+- Realización de diagnósticos y solución de problemas relacionados con hardware, incluyendo routers, cables y equipos de computación.
+-	Instalación, configuración, formateo y diagnóstico de equipos, garantizando el correcto funcionamiento de la infraestructura técnica.
+  
 
 #### Kynetec 2019-2019
--	Solicitaba retroalimentación directa de los usuarios sobre sus experiencias con el producto a través de diversos canales, incluyendo encuestas, tickets de soporte al cliente y sesiones de investigación de usuarios.  
-- Registraba y organizaba la retroalimentación de los usuarios en una base de datos para identificar tendencias, problemas y áreas de mejora.  
--	Colaboraba con equipos interfuncionales para abogar por mejoras centradas en el usuario basadas en la retroalimentación recopilada.  
--	Ayudaba en la planificación y ejecución de iniciativas de retroalimentación de usuarios, como programas de prueba beta y estudios de usabilidad.  
+-	Obtener retroalimentación directa de los usuarios sobre sus experiencias con el producto a través de diversos canales.
+-	Registrar y organizar la retroalimentación de los usuarios en una base de datos para identificar tendencias, problemas y áreas de mejora.
+-	Colaborar con equipos interfuncionales para abogar por mejoras centradas en el usuario basadas en la retroalimentación recopilada. 
 
+
+***
+### **Habilidades**
+- Instalación y configuración: Experiencia en la instalación, configuración y mantenimiento de infraestructuras técnicas.
+- Recopilación y análisis de retroalimentación de usuarios: Experiencia en obtener y sistematizar información de usuarios para guiar mejoras en productos.
+- Programación: Experiencia en lenguajes de programación como C# y Python.
+- IDEs y Motor Gráfico: Experiencia con el Visual Studio Code, Unity, y otras herramientas como Blender y Photoshop.
 
 
 
 
 ***
 
-### My Projects
-- TicTacToe - Html and Javascript  
-[Info](/tictactoe)  
-[Source code](https://github.com/iazpiri/iazpiri.github.io/tree/main/mycode/javascript/tictactoe)  
-[Live demo](/demos/javascript/tictactoe/tictactoe.html)
-- Primer Juego Plataforma - Unity 3D  
-[Info](/primerjuego)  
-[Source Code]()  
-[Live Demo](/demos/unity/PrimerJuego/index.html)  
-- Project 3
-- Project 4
-- Project 5
-  
----
+
 
 [Download CV](/pdf/iazpiri_CV.pdf)
